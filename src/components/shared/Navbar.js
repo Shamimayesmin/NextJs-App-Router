@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 const Navbar = () => {
 	return (
-		<div className="navbar bg-base-100">
+		<div className="navbar bg-primary text-white">
 			<div className="flex-1">
 				<a className="btn btn-ghost text-xl">daisyUI</a>
 			</div>
